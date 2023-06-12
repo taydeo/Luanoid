@@ -14,5 +14,8 @@ build
 
 # Ignore Node modules
 node_modules
+package-lock.json
 
 roblox.toml
+
+*.rbxm
